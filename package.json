@@ -1,0 +1,29 @@
+{
+  "name": "aribitrage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "web3": "^1.5.0",
+    "webpack": "^4.32.2",
+    "webpack-cli": "^3.3.2",
+    "webpack-dev-server": "^3.4.1"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.0",
+    "bn.js": "^4.12.0",
+    "decimal.js": "^10.3.1",
+    "dotenv": "^10.0.0",
+    "ethereum-input-data-decoder": "^0.3.5",
+    "ethers": "^4.0.49",
+    "prompt": "^1.2.1"
+  }
+}
