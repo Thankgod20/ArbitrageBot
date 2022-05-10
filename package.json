@@ -24,6 +24,7 @@
     "dotenv": "^10.0.0",
     "ethereum-input-data-decoder": "^0.3.5",
     "ethers": "^4.0.49",
+    "ganache": "^7.0.3",
     "prompt": "^1.2.1"
   }
 }
